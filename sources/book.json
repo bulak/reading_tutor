@@ -1,0 +1,13 @@
+{
+  "title": "Le Roman de Tristan et Iseut",
+  "adaptation_author": "Joseph Bédier",
+  "student_printing": "10/18 paperback; printed pagination requires verification",
+  "language": "fr",
+  "chapters_total": 19,
+  "source_url": "https://www.gutenberg.org/ebooks/42256",
+  "source_plain_text_url": "https://www.gutenberg.org/ebooks/42256.txt.utf-8",
+  "local_source_file": "sources/bedier_reference.txt",
+  "chapter_numbering": "Roman numerals I-XIX in the book; internal tracker 1-19",
+  "pagination_mappable_from_reference": false,
+  "warning": "Do not mix Bédier with other retellings or assume printed page boundaries from Gutenberg."
+}

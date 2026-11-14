@@ -1,0 +1,7 @@
+# Child-specific learning data; do not push this to a public repository.
+data/events.jsonl
+data/progress.json
+data/mastery.json
+reports/*.md
+sources/bedier_reference.txt
+__pycache__/
